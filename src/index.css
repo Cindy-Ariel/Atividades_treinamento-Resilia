@@ -1,0 +1,25 @@
+
+#container{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#container .item{
+    height: 250px;
+    width: 250px;
+}
+
+.vermelho{
+    background: red
+}
+.azul{
+    background: blue
+}
+.amarelo{
+    background: yellow
+}
+.verde{
+    background: green
+}
